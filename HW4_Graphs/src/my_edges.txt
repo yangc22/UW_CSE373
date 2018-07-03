@@ -1,0 +1,13 @@
+Seattle Beijing 12
+Seattle Shanghai 13
+Seattle Seoul 12
+Seattle HongKong 14
+Beijing Harbin 2
+Shanghai Harbin 3
+Seoul Harbin 2
+Beijing HongKong 3
+Beijing Seoul 2
+Beijing Shanghai 2
+Shanghai Beijing 2
+Seoul Beijing 2
+Seoul Shanghai 1
